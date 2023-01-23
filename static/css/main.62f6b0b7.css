@@ -1,0 +1,2 @@
+body{background-color:#000}h1{color:#fff;font-size:4rem;text-align:center}.board{flex-direction:column;padding:10px}.board,.line{display:flex;gap:10px}.line{margin:auto}.tile{align-items:center;background-color:#fff;border:1px solid #000;display:flex;font-size:30px;height:40px;justify-content:center;text-transform:capitalize;width:40px}.correct{background-color:#90ee90}.close{background-color:#ff0}.incorrect{background-color:#d3d3d3}
+/*# sourceMappingURL=main.62f6b0b7.css.map*/
